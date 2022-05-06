@@ -145,7 +145,7 @@ section {
   background-image: url(../img/COVER2.png);
   background-position: center;
   background-size: cover;
-  min-height: 500px;
+  min-height: 300px;
 }
 
 .project {
